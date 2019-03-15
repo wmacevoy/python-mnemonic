@@ -22,3 +22,7 @@ BIP Paper
 
 See https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki
 for full specification
+
+Broken
+------
+I think the ci build is broken.
